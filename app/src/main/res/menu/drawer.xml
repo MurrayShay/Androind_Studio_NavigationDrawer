@@ -5,11 +5,11 @@
             android:id="@+id/navigation_item_1"
             android:checked="true"
             android:icon="@drawable/air"
-            android:title="空氣品質"/>
+            android:title="空氣品質" />
         <item
             android:id="@+id/navigation_item_2"
             android:icon="@drawable/sun"
-            android:title="紫外線"/>
+            android:title="紫外線" />
 
     </group>
 </menu>
